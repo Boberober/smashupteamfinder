@@ -31,7 +31,23 @@ body {
     display: grid;
     #place-items: start center;
     float:left;
+
+    background-color: LightGray;
+    background-position: 50%;
+    background-size: 80%;
+    background-repeat: no-repeat;
 }
+
+
+.icon-aliens {
+    background-image: url('../images/Aliens.png')
+}
+
+.icon-killer-plant {
+    background-image: url('../images/Killer_Plants.png')
+}
+
+
 /*
 .card-box1, .card-box2 {
     background-color: LightGray;
